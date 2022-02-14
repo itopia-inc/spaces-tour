@@ -88,10 +88,16 @@ as well as all necessary runtimes pre-installed in this space for you.
 
 Try getting some project(s) running, and see for yourself how it feels to work in a space!
 
-~ insert a gif of each of the projects running ~
-
 >Note: You can run Docker inside a space if your admin(s) allow it.
 We've enabled Docker for all Test Drive spaces.
+
+### 🕹️ Game development
+
+```bash
+(cd projects/pixel-examples && go run community/raycaster/raycaster.go)
+```
+
+![gameplay recording](projects/pixel_raytracing.gif)
 
 ## ⏭️ Next steps
 
