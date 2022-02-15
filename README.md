@@ -91,6 +91,14 @@ Try getting some project(s) running, and see for yourself how it feels to work i
 >Note: You can run Docker inside a space if your admin(s) allow it.
 We've enabled Docker for all Test Drive spaces.
 
+### 🌐 Web development
+
+```bash
+(cd projects/rainbowspace && npm i && npm run dev)
+```
+
+![interaction recording](projects/rainbowspace.gif)
+
 ### 🕹️ Game development
 
 ```bash
