@@ -109,8 +109,7 @@ We've enabled Docker for all Test Drive spaces.
 
 ## ⏭️ Next steps
 
-<!-- - Check out [the docs](https://documentation.itopia.com/hc/en-us/articles/4410355049883-Signing-up-for-a-new-organization). -->
 - [Sign up](https://console.cloud.google.com/marketplace/product/itopia-public/itopia-spaces) for your free trial.
-<!-- - Browse [the open-source image catalog](https://github.com/itopia-inc/spaces-images). -->
-<!-- - Automate administrative tasks with [the Spaces CLI](https://github.com/itopia-inc/spaces-cli). -->
-- TODO
+- Check out [the docs](https://documentation.itopia.com/hc/en-us/articles/4410355049883-Signing-up-for-a-new-organization).
+- Browse [the image catalog](https://github.com/itopia-inc/spaces-images).
+- Automate administrative tasks with [the CLI](https://github.com/itopia-inc/spaces-cli).
